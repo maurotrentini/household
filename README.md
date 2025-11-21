@@ -81,3 +81,19 @@ If you prefer to run the services locally:
     npm install
     npm run dev
     ```
+
+## 📱 PWA Installation
+
+The app is fully installable on mobile devices.
+
+### Android (Chrome)
+1.  Open the app in Chrome.
+2.  Tap the **menu icon** (three dots) in the top right.
+3.  Tap **"Install App"** or **"Add to Home Screen"**.
+4.  Follow the prompts to install.
+
+### iOS (Safari)
+1.  Open the app in Safari.
+2.  Tap the **Share button** (square with arrow up) at the bottom.
+3.  Scroll down and tap **"Add to Home Screen"**.
+4.  Tap **"Add"** in the top right corner.

@@ -41,3 +41,17 @@ The Household Manager is a PWA designed to help families manage their schedule, 
    - Frontend: `http://localhost:5173`
    - Backend: `http://localhost:5000`
    - MongoDB: `mongodb://localhost:27017` (exposed)
+
+## 📱 PWA Installation
+
+### Android (Chrome)
+1. Open the app in Chrome.
+2. Tap the **menu icon** (three dots) in the top right.
+3. Tap **"Install App"** or **"Add to Home Screen"**.
+4. Follow the prompts to install.
+
+### iOS (Safari)
+1. Open the app in Safari.
+2. Tap the **Share button** (square with arrow up) at the bottom.
+3. Scroll down and tap **"Add to Home Screen"**.
+4. Tap **"Add"** in the top right corner.

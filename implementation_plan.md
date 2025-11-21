@@ -57,6 +57,15 @@ Create a Progressive Web App (PWA) to manage household activities. The app will 
 - Installs dependencies.
 - Exposes port 5000.
 
+### PWA Implementation (New)
+#### [MODIFY] `client/vite.config.ts`
+- Add `vite-plugin-pwa`.
+- Configure manifest (Name, Icons, Colors).
+- Configure workbox for offline caching.
+
+#### [NEW] `client/public/pwa-192x192.png` & `client/public/pwa-512x512.png`
+- App icons for installation.
+
 ## Verification Plan
 ### Automated Tests
 - Backend: Simple API tests using `supertest` or manual curl/Postman.

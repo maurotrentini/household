@@ -19,4 +19,9 @@
     - [x] Shopping List Module (Logic, UI)
         - [x] Aggregation API
         - [x] Shopping List UI
+- [x] PWA Implementation
+    - [x] Configure vite-plugin-pwa
+    - [x] Create Manifest & Icons
+    - [x] Register Service Worker
+    - [x] Verify Installability
 
